@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base de la aplicación en modo Claro (Light) y sin barra superior -->
+    <style name="Base.Theme.Kidwear" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Colores corporativos vinculados a tus tokens -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="colorOutline">@color/outline</item>
+
+        <!-- Fondo general de la ventana -->
+        <item name="android:windowBackground">@color/surface</item>
+    </style>
+
+    <style name="Theme.Kidwear" parent="Base.Theme.Kidwear" />
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- tv_marca -->
+        <style name="TextoMarca">
+            <item name="android:fontFamily">@font/inter_regular</item>
+            <item name="android:textSize">14sp</item>
+            <item name="android:lineHeight">20sp</item>
+            <item name="android:textColor">@color/primary</item>
+        </style>
+
+        <!-- tv_titulo -->
+        <style name="TextoTitulo">
+            <item name="android:fontFamily">@font/inter_regular</item>
+            <item name="android:textSize">22sp</item>
+            <item name="android:lineHeight">28sp</item>
+            <item name="android:textColor">@color/on_surface</item>
+        </style>
+
+        <!-- et_email y et_password -->
+        <style name="TextoInput">
+            <item name="android:fontFamily">@font/inter_regular</item>
+            <item name="android:textSize">16sp</item>
+            <item name="android:lineHeight">24sp</item>
+            <item name="android:textColor">@color/on_surface</item>
+            <item name="android:textColorHint">@color/on_surface_variant</item>
+        </style>
+
+        <!-- tv_olvido_password -->
+        <style name="TextoOlvidoPassword">
+            <item name="android:fontFamily">@font/inter_regular</item>
+            <item name="android:textSize">12sp</item>
+            <item name="android:lineHeight">16sp</item>
+            <item name="android:textColor">@color/primary</item>
+        </style>
+
+        <!-- tv_terminos -->
+        <style name="TextoTerminos">
+            <item name="android:fontFamily">@font/inter_regular</item>
+            <item name="android:textSize">12sp</item>
+            <item name="android:lineHeight">16sp</item>
+            <item name="android:textColor">@color/on_surface_variant</item>
+        </style>
+
+        <!-- btn_login -->
+        <style name="TextoBotonLogin">
+            <item name="android:fontFamily">@font/inter_semibold</item>
+            <item name="android:textSize">14sp</item>
+            <item name="android:lineHeight">20sp</item>
+            <item name="android:textColor">@color/on_primary</item>
+        </style>
+
+        <!-- btn_google -->
+        <style name="TextoBotonGoogle">
+            <item name="android:fontFamily">@font/inter_semibold</item>
+            <item name="android:textSize">14sp</item>
+            <item name="android:lineHeight">20sp</item>
+            <item name="android:textColor">@color/on_surface</item>
+        </style>
+
+        <!-- tv_no_cuenta -->
+        <style name="TextoNoCuenta">
+            <item name="android:fontFamily">@font/inter_regular</item>
+            <item name="android:textSize">14sp</item>
+            <item name="android:lineHeight">20sp</item>
+            <item name="android:textColor">@color/on_surface_variant</item>
+        </style>
+
+        <!-- tv_registro -->
+        <style name="TextoRegistro">
+            <item name="android:fontFamily">@font/inter_regular</item>
+            <item name="android:textSize">14sp</item>
+            <item name="android:lineHeight">20sp</item>
+            <item name="android:textColor">@color/primary</item>
+        </style>
+</resources>
