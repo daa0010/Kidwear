@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Kidwear</string>
     <string name="marca">Kidwear</string>
-    <string name="titulo_login">Iniciar sesión</string>
+    <string name="titulo_inicio">Iniciar sesión</string>
     <string name="hint_email">Correo electrónico</string>
     <string name="hint_password">Contraseña</string>
     <string name="olvido_password">¿Has olvidado tu contraseña?</string>
